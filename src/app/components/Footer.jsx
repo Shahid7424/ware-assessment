@@ -17,7 +17,7 @@ const Footer = () => {
               <li><a href="#" className="hover:underline">Restaurant & café tableware</a></li>
               <li><a href="#" className="hover:underline">Blogs - Our learnings & thoughts</a></li>
               <li><a href="#" className="hover:underline">Return or Exchange your order</a></li>
-              <li><a href="#" className="hover:underline">Events - you don&apos;t want to miss</a></li>
+              <li><a href="#" className="hover:underline">Events - you do not want to miss</a></li>
               <li><a href="#" className="hover:underline">Care & Features</a></li>
               <li><a href="#" className="hover:underline">Return, Exchange & Refund Policy</a></li>
               <li><a href="#" className="hover:underline">Shipping Policy</a></li>

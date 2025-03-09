@@ -66,7 +66,7 @@ export default function Home() {
           </div>
           <div className="text-left mx-10 pr-14">
             <h2 className="text-2xl md:text-2xl font-lg text-gray-700 mb-4">
-              Hi, I&apos;m Uunatii from Ware.
+              Hi, I am Uunatii from Ware.
             </h2>
             <p className="text-gray-700 leading-relaxed mb-4">
               We create beautiful ceramic tableware for eateries, from dinner plates to espresso & cappuccino cups.
@@ -74,7 +74,7 @@ export default function Home() {
             </p>
             <p className="text-gray-700 leading-relaxed mb-6">
               Whether you need pieces for a fancy fine dining spot or restaurant crockery in bulk for your chain, let me know.
-              I&apos;ll help you find pieces that&apos;ll make your guests smile 🙂
+              I will help you find pieces tha will make your guests smile 🙂
             </p>
             <button
               onClick={handleScrollToForm}
@@ -119,7 +119,7 @@ export default function Home() {
             </h2>
             <p className="text-gray-700 leading-relaxed mb-4">
               You can order as few as 3 pieces.<br /><br />
-              So you don&apos;t have to maintain extra stock in your restaurant.
+              So you do not have to maintain extra stock in your restaurant.
             </p>
           </div>
         </div>
